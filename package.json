@@ -5,6 +5,7 @@
   "version": "1.0.0",
   "author": "Simplecode <info@simplecode.io>",
   "dependencies": {
+    "eslint-utils": "^1.4.2",
     "gatsby": "^2.13.51",
     "gatsby-image": "^2.2.8",
     "gatsby-plugin-manifest": "^2.2.4",
